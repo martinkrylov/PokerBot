@@ -1,0 +1,518 @@
+2024-04-30 18:27:32,981 - INFO - main.py - command_line_parser - 57 - Initializing program
+2024-04-30 18:27:33,614 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:33,676 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:33,736 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:33,788 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:33,839 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:34,277 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:34,340 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:34,403 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:34,456 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:34,509 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:34,561 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:34,613 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:34,665 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:34,717 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:34,760 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:34,803 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:34,837 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:34,871 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:34,897 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:34,922 - INFO - cycle.py - next_player - 74 - Max steps without raising has been reached. For example all calls after raiser.
+2024-04-30 18:27:34,922 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:34,945 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:34,969 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:34,994 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,019 - DEBUG - cycle.py - next_player - 60 - Only one player remaining
+2024-04-30 18:27:35,020 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,080 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,140 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,192 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,244 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,295 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,347 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,399 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,450 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,502 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,545 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,587 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,622 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,656 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,682 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,708 - INFO - cycle.py - next_player - 74 - Max steps without raising has been reached. For example all calls after raiser.
+2024-04-30 18:27:35,708 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,731 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,754 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,779 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,802 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,826 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,849 - INFO - cycle.py - next_player - 74 - Max steps without raising has been reached. For example all calls after raiser.
+2024-04-30 18:27:35,850 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,873 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,896 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,920 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,943 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,967 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:35,990 - INFO - cycle.py - next_player - 74 - Max steps without raising has been reached. For example all calls after raiser.
+2024-04-30 18:27:35,990 - DEBUG - cycle.py - next_player - 97 - Max steps total has been reached after jumping some folders
+2024-04-30 18:27:35,991 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,052 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,112 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,163 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,214 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,257 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,300 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,343 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,377 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,411 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,446 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,480 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,515 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,550 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,576 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,602 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,628 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,653 - DEBUG - cycle.py - next_player - 60 - Only one player remaining
+2024-04-30 18:27:36,654 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,713 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,773 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,824 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,875 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,917 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:36,961 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,005 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,048 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,091 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,126 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,161 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,186 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,212 - DEBUG - cycle.py - next_player - 82 - max steps after raiser has been reached
+2024-04-30 18:27:37,212 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,235 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,258 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,282 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,305 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,329 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,352 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,376 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,400 - DEBUG - cycle.py - next_player - 97 - Max steps total has been reached after jumping some folders
+2024-04-30 18:27:37,400 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,422 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,445 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,468 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,490 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,512 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,534 - DEBUG - cycle.py - next_player - 97 - Max steps total has been reached after jumping some folders
+2024-04-30 18:27:37,534 - DEBUG - cycle.py - next_player - 97 - Max steps total has been reached after jumping some folders
+2024-04-30 18:27:37,535 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,595 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,655 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,706 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,757 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,800 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,842 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,884 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,918 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,952 - DEBUG - cycle.py - next_player - 82 - max steps after raiser has been reached
+2024-04-30 18:27:37,952 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:37,983 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,015 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,046 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,078 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,109 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,140 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:38,140 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,170 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,200 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,231 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,261 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,292 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,322 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:38,322 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,351 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,381 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,410 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,440 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,469 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,499 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,520 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,541 - DEBUG - cycle.py - next_player - 60 - Only one player remaining
+2024-04-30 18:27:38,541 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,600 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,660 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,711 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,763 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,822 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,881 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,932 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:38,991 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,042 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,093 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,145 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,204 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,263 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,315 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,366 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,408 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,451 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,495 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,554 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,613 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,664 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,714 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,756 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,800 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,842 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,885 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,928 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,962 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:39,995 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,021 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,047 - DEBUG - cycle.py - next_player - 82 - max steps after raiser has been reached
+2024-04-30 18:27:40,047 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,070 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,093 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,116 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,139 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:40,139 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,161 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,184 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,206 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,227 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:40,228 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,249 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,270 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,292 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,312 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:40,313 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,372 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,431 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,482 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,534 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,593 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,652 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,703 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,754 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,805 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,856 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,908 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:40,968 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:41,028 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:41,079 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:41,130 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:41,180 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:41,232 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:41,284 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:41,343 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:41,402 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:41,452 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:41,503 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:41,553 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:41,605 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:41,656 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:41,716 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:41,775 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:41,826 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:41,877 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:41,919 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:41,962 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,005 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,065 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,124 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,175 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,226 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,268 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,312 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,355 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,398 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,440 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,474 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,508 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,533 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,558 - DEBUG - cycle.py - next_player - 82 - max steps after raiser has been reached
+2024-04-30 18:27:42,558 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,581 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,604 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,627 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,649 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:42,649 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,672 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,694 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,716 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,738 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:42,738 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,759 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,780 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,800 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,820 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,841 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,862 - DEBUG - cycle.py - next_player - 60 - Only one player remaining
+2024-04-30 18:27:42,862 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,922 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:42,980 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,032 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,083 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,134 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,185 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,228 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,270 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,304 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,338 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,364 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,389 - DEBUG - cycle.py - next_player - 82 - max steps after raiser has been reached
+2024-04-30 18:27:43,389 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,412 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,435 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,459 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,482 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:43,482 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,505 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,528 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,551 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,573 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:43,573 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,595 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,617 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,638 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,659 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:43,660 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,720 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,779 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,839 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,898 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,949 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:43,999 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,042 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,084 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,118 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,152 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,186 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,220 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,255 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,289 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,324 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,358 - INFO - cycle.py - next_player - 74 - Max steps without raising has been reached. For example all calls after raiser.
+2024-04-30 18:27:44,358 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,390 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,420 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,451 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,482 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,514 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,546 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,577 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,608 - INFO - cycle.py - next_player - 74 - Max steps without raising has been reached. For example all calls after raiser.
+2024-04-30 18:27:44,608 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,630 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,652 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,675 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,697 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,719 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,741 - INFO - cycle.py - next_player - 74 - Max steps without raising has been reached. For example all calls after raiser.
+2024-04-30 18:27:44,741 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,762 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,783 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,805 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,825 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,847 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,867 - INFO - cycle.py - next_player - 74 - Max steps without raising has been reached. For example all calls after raiser.
+2024-04-30 18:27:44,868 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,927 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:44,986 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,036 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,087 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,128 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,170 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,204 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,238 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,263 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,289 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,315 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,341 - DEBUG - cycle.py - next_player - 82 - max steps after raiser has been reached
+2024-04-30 18:27:45,341 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,365 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,389 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,412 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,436 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:45,436 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,459 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,482 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,504 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,527 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:45,527 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,549 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,570 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,591 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,613 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,635 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,656 - INFO - cycle.py - next_player - 74 - Max steps without raising has been reached. For example all calls after raiser.
+2024-04-30 18:27:45,657 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,716 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,775 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,826 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,877 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,919 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,962 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:45,995 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:46,028 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:46,054 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:46,080 - DEBUG - cycle.py - next_player - 60 - Only one player remaining
+2024-04-30 18:27:46,081 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:46,140 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:46,199 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:46,251 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:46,302 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:46,353 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:46,404 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:46,455 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:46,515 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:46,574 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:46,625 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:46,675 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:46,725 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:46,776 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:46,826 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:46,878 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:46,930 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:46,976 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,019 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,054 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,088 - DEBUG - cycle.py - next_player - 82 - max steps after raiser has been reached
+2024-04-30 18:27:47,088 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,119 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,152 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,184 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,216 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,247 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,279 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:47,279 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,310 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,341 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,373 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,403 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,434 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,465 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,525 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,584 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,635 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,686 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,729 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,772 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,816 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,875 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,934 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:47,984 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,035 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,085 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,138 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,189 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,241 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,293 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,335 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,376 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,411 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,445 - DEBUG - cycle.py - next_player - 82 - max steps after raiser has been reached
+2024-04-30 18:27:48,445 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,476 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,508 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,539 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,570 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,603 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,635 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:48,635 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,667 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,697 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,728 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,758 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,789 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,820 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:48,820 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,850 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,880 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,910 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,939 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:48,970 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,000 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,030 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,060 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,090 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,119 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,150 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,180 - DEBUG - cycle.py - next_player - 97 - Max steps total has been reached after jumping some folders
+2024-04-30 18:27:49,180 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,239 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,298 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,348 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,399 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,441 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,484 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,527 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,570 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,614 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,647 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,681 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,706 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,732 - DEBUG - cycle.py - next_player - 82 - max steps after raiser has been reached
+2024-04-30 18:27:49,732 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,755 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,778 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,803 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,826 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:49,826 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,849 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,872 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,895 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,917 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:49,917 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,939 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,961 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:49,983 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:50,004 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:50,005 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:50,065 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:50,124 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:50,175 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:50,227 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:50,287 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:50,347 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:50,398 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:50,450 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:50,502 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:50,556 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:50,609 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:50,670 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:50,731 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:50,783 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:50,835 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:50,887 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:50,939 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:50,992 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,043 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,094 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,137 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,179 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,213 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,247 - DEBUG - cycle.py - next_player - 82 - max steps after raiser has been reached
+2024-04-30 18:27:51,247 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,279 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,311 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,342 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,374 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,406 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,439 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:51,439 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,470 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,501 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,532 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,562 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,594 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,625 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:51,626 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,656 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,686 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,715 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,745 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,775 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,805 - DEBUG - cycle.py - next_player - 86 - All players checked
+2024-04-30 18:27:51,805 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,865 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
+2024-04-30 18:27:51,925 - DEBUG - montecarlo_python.py - run_montecarlo - 196 - Preflop reverse tables for ranges for opponent: NO
