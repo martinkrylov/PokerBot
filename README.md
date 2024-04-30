@@ -14,7 +14,6 @@ Our project builds upon the [neuron_poker](https://github.com/dickreuter/neuron_
 ### Setup the Environment
 - Navigate to ```PokerBot/poker``` directory
 - ```curl -sSL https://install.python-poetry.org | python3 -```
-- ```poetry add $(cat requirements.txt)```
 - ```poetry env use python3.11```
 - ```poetry shell```
 - ```poetry install --no-root```
