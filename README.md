@@ -12,7 +12,7 @@ Final project for CS394R: Applying Reinforcement Lerning to Poker. This project 
 ## Run the Code Yourself
 ### Setup the Environment
 - Navigate to ```PokerBot/poker``` directory
-- ```curl -sSL https://install.python-poetry.org | python3 -```
+- Install poetry ```curl -sSL https://install.python-poetry.org | python3 -``` and add it to your path.
 - ```poetry env use python3.11```
 - ```poetry shell```
 - ```poetry install --no-root```
