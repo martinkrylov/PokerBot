@@ -1,7 +1,6 @@
 # PokerBot
-Final project for CS394R: Applying Reinforcement Lerning to Poker
+Final project for CS394R: Applying Reinforcement Lerning to Poker. This project utilizes the [neuron_poker](https://github.com/dickreuter/neuron_poker) environment by [dickreuter](https://github.com/dickreuter).
 ## Code Explanation
-Our project builds upon the [neuron_poker](https://github.com/dickreuter/neuron_poker) environment by [dickreuter](https://github.com/dickreuter).
 - [poker](https://github.com/martinkrylov/PokerBot/tree/main/poker) contains the all of our code.
   - [agents](https://github.com/martinkrylov/PokerBot/tree/main/poker/agents) contains implementation of all agents.
     - [agent_rl](https://github.com/martinkrylov/PokerBot/blob/main/poker/agents/agent_rl.py): deep q-learning agent.
