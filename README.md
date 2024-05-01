@@ -42,4 +42,6 @@ options:
 
 ```
 
-  
+## Contributors
+- [Martin Krylov](https://github.com/martinkrylov)
+- [Neo Wang](https://github.com/nwatx)
